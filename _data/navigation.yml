@@ -1,6 +1,14 @@
 links:
 - title: Writing
   url: /
+  - title: Performance
+  url: /performance
+  - title: Audio
+  url: /audio
+  - title: video
+  url: /video
+  - title: Workshops
+  url: /workshops
 - title: About
   url: /about
 - title: Search
