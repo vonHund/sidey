@@ -1,0 +1,19 @@
+---
+label: neu
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: text
+  name: summary
+  label: summary
+- type: list
+  name: tags
+  label: tags
